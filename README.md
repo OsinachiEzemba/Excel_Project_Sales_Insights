@@ -36,7 +36,7 @@ Welcome to the **Excel_Project_Sales_Insights,** where raw sales data transforms
 - Integrated slicers for easy filtering and timelines for date-based exploration.
 
   ## Results
-I have documented the entire process of this project in a Medium publication. You can access this publication via this [link](https://ezembaosinachi.medium.com/delving-into-homicides-in-the-united-states-a-data-driven-exploration-bb68b277f599). 
+I have documented the entire process of this project in a Medium publication. You can access this publication via this [link](https://medium.com/@ezembaosinachi/sales-insights-excel-project-784be3e62967). 
 
 
   # Output-dashboard
