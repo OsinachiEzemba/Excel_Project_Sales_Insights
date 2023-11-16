@@ -35,6 +35,10 @@ Welcome to the **Excel_Project_Sales_Insights,** where raw sales data transforms
 - Combined charts into a dynamic, interactive Excel dashboard.
 - Integrated slicers for easy filtering and timelines for date-based exploration.
 
+  ## Results
+I have documented the entire process of this project in a Medium publication. You can access this publication via this [link](https://ezembaosinachi.medium.com/delving-into-homicides-in-the-united-states-a-data-driven-exploration-bb68b277f599). 
+
+
   # Output-dashboard
   <img width="922" alt="Sales dashboard" src="https://github.com/OsinachiEzemba/Excel_Project_Sales_Insights/assets/127313959/6419ca1a-547a-4014-86ec-90dd6ba47fe0">
 
